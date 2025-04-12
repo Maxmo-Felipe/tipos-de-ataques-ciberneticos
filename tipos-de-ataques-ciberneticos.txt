@@ -1,0 +1,41 @@
+Phishing
+
+Guerra de informação e Desinformação
+
+Sniffing
+
+SQL Injection
+
+Man-In-The-Middle
+
+Trojan
+
+Spyware
+
+Keylogger
+
+Eavesdropping
+
+Data Exfiltration
+
+DOS / DDoS
+
+Shoulder Surfing
+
+Dumpster Diving(lixeira)
+
+XSS Cross-site Scripting
+
+Buffer Overflow
+
+Zero-Day
+
+Exploit
+
+Wifi Hacking
+
+Cracking Passwords
+
+DNS Spoofing
+
+Engenharia Social
