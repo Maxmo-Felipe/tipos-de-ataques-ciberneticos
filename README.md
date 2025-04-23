@@ -5,7 +5,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blue&style=for-the-badge)
 
 > [!IMPORTANT]
-> Esse repositório, tem propósito para fins educativos e acadêmico. Servindo de referência para consultas e colaboração para a comunidade Whitehat.
+> Esse repositório tem propósito para fins educativos e acadêmicos. Servindo de referência para consultas e colaboração para a comunidade Whitehat.
 
 
 # Tópicos 
