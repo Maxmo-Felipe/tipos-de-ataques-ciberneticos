@@ -39,7 +39,10 @@
 # `Ataques` 
 
 
-## Phishing
+## Phishing ![image_alt](https://www.securitymetrics.com/blog/7-ways-recognize-phishing-email
+O phishing é uma técnica de engenharia social que engana usuários para obter dados sensíveis, como senhas ou dados bancários. Pode ser aplicado principalmente por e-mail, SMS, redes sociais ou sites falsos.
+
+Exemplo: Um e-mail falso do "banco" pedindo que o usuário atualize seus dados em um site idêntico ao real.
 
 ## Guerra de informação e Desinformação
 
