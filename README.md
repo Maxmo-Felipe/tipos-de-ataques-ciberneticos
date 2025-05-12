@@ -39,24 +39,45 @@
 # `Ataques` 
 
 
-## Phishing ![image_alt](https://www.securitymetrics.com/blog/7-ways-recognize-phishing-email
+## Phishing
 O phishing é uma técnica de engenharia social que engana usuários para obter dados sensíveis, como senhas ou dados bancários. Pode ser aplicado principalmente por e-mail, SMS, redes sociais ou sites falsos.
 
 Exemplo: Um e-mail falso do "banco" pedindo que o usuário atualize seus dados em um site idêntico ao real.
 
 ## Guerra de informação e Desinformação
+É o uso de informação (ou desinformação) para manipular opiniões, gerar confusão ou desestabilizar sociedades. Podendo ser realizado em redes sociais, mídias tradicionais, campanhas políticas.
+
+Exemplo: Propagação de fake news para influenciar eleições.
 
 ## Sniffing
+É um tipo de ataque que captura dados trafegando em uma rede. Essas redes podem ser Wi-Fi abertas ou mal configuradas.
+
+Exemplo: Captura de senhas ou dados de cartão de crédito transmitidos sem criptografia.
 
 ## SQL Injection
+É a Injeção de comandos SQL maliciosos em campos de entrada de dados. Aplicações web com falhas na validação de dados é o ambiente mais comum do ataque.
+
+Exemplo: ' OR '1'='1 em um campo de login para acessar o sistema sem autenticação.
 
 ## Man-In-The-Middle
+Ataque baseado em uma interceptação e alteração de comunicação entre duas partes sem que saibam. Por isso muito cuidado com redes públicas, conexões HTTP sem HTTPS.
+
+Exemplo: Um atacante intercepta uma conversa entre usuário e banco para roubar dados.
 
 ## Trojan
+Malware disfarçado de software legítimo. Ele está em arquivos baixados da internet, anexos de e-mail, dentre outros.
+
+Exemplo: Um "jogo gratuito" que, ao ser instalado, abre portas para invasores.
 
 ## Spyware
+É um software espião que coleta informações do usuário sem seu conhecimento. Pode estar inclusos em navegadores, sistemas operacionais infectados e outros.
+
+Exemplo: Um programa que registra sites visitados e envia para um servidor remoto.
 
 ## Keylogger
+Programa que registra as teclas digitadas no teclado. Os sistemas comprometidos, especialmente em computadores públicos, podem se aplicar a esse tipo de ataque.
+
+Exemplo: Roubo de senha de banco digitada pelo usuário.
 
 ## Eavesdropping
 
