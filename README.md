@@ -80,12 +80,24 @@ Programa que registra as teclas digitadas no teclado. Os sistemas comprometidos,
 Exemplo: Roubo de senha de banco digitada pelo usuário.
 
 ## Eavesdropping
+Escuta não autorizada de comunicação digital ou analógica. Aplicado em redes de telefonia, VoIP, conexões de rede inseguras.
+
+Exemplo: Captura de conversa VoIP entre duas pessoas em uma empresa.
 
 ## Data Exfiltration
+Extração ilegal de dados sensíveis de uma rede ou sistema. Redes corporativas, bancos de dados confidenciais, são algumas das principais vitimas.
+
+Exemplo: Um invasor que copia documentos sigilosos para pendrive ou nuvem.
 
 ## DOS/DDoS
+Ataques que sobrecarregam um servidor, tornando o serviço indisponível. Sites, servidores, sistemas online, são os lugares mais afetados.
+
+Exemplo: Milhares de requisições falsas para tirar um site de uma empresa do ar.
 
 ## Shoulder Surfing
+Situação no qual se observa diretamente um usuário digitando informações confidenciais.
+
+Onde é aplicado: Locais públicos como caixas eletrônicos ou lan houses.
 
 ## Dumpster Diving(lixeira)
 
