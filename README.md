@@ -100,19 +100,46 @@ Situação no qual se observa diretamente um usuário digitando informações co
 Onde é aplicado: Locais públicos como caixas eletrônicos ou lan houses.
 
 ## Dumpster Diving(lixeira)
+Obter informações vasculhando o lixo físico ou eletrônico de empresas, residências, áreas de descarte de documentos.
+
+Exemplo: Encontrar faturas ou documentos com senhas jogadas fora sem rasgar.
 
 ## XSS Cross-site Scripting
+Injeção de scripts maliciosos em sites, executados no navegador da vítima. Sites com campos de entrada mal protegidos, é um dos lugares mais procurados pelos os atacantes.
+
+Exemplo: Um comentário malicioso que rouba cookies de sessões de outros usuários.
 
 ## Buffer Overflow
+Técnica que explora falhas ao ultrapassar o limite de memória de um buffer. Programas mal escritos, principalmente em C/C++ pode ser brechas.
+
+Exemplo: Injetar código malicioso para executar comandos no sistema.
 
 ## Zero-Day
+Vulnerabilidade desconhecida pelo fabricante ou público, sem correção disponível até o momento de sua descoberta.
+
+Exemplo: Ataque explorando uma falha no Windows antes do lançamento de um patch.
 
 ## Exploit
+Código ou técnica que aproveita uma falha em um sistema para invadi-lo. Aplicabilidade em softwares com vulnerabilidades conhecidas.
+
+Exemplo: Uso de um exploit público para obter acesso root em um servidor Linux.
 
 ## Wifi Hacking
+Invasão de redes sem fio para acesso não autorizado. Redes domésticas ou públicas mal protegidas, locais ideais para os atacantes entrarem em ação.
+
+Exemplo: Usar ferramentas como Aircrack-ng para descobrir senhas Wi-Fi.
 
 ## Cracking Passwords
+Descobrir senhas por meio de força bruta, dicionário ou vazamentos. Sistemas de login, arquivos criptografados, são os principais alvos.
+
+Exemplo: Um atacante tentando milhares de combinações até acertar a senha.
 
 ## DNS Spoofing
+Alteração de respostas DNS para redirecionar usuários a sites falsos. Podem ser aplicados em redes locais ou em servidores DNS comprometidos.
+
+Exemplo: Um usuário digita "banco.com" e é levado a um site falso com a mesma aparência.
 
 ## Engenharia Social
+Manipulação psicológica de pessoas para obter acesso ou informações. Aplicada em várias áreas com telefonemas, e-mails, interações presenciais.
+
+Exemplo: Alguém se passando por técnico de TI para convencer um funcionário a revelar a senha.
